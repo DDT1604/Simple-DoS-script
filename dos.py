@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import socket, time
 
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
